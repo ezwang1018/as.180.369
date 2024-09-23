@@ -1,0 +1,9 @@
+Amount of business creation over presidential terms:
+I am interested in this topic because presidents in the US tend to implement contrasting monetary, fiscal, trade, and immigration policies backed up by their ideology and political beliefs. 
+Such policies may have a considerable impact on the economy overall and entrepreneurship specifically. Understanding the implications of this topic would help 1) evaluate the effectiveness of administrations in promoting entrepreneurship and 2) inform entrepreneurs’ business strategies with respect to government policies. 
+While existing literature has examined the Democrat-Republican growth gap, business cycle and quality of entrepreneurship, presidential term and stock return, and presidential term and liquidity, few has studied the relationship between presidential term and business creation specifically. 
+On FRED, we have access to data of projected business formations from 2004-2024, to which we can map with the presidential term to have a preliminary understanding of the pattern. 
+In addition, we can also incorporate some key variables relevant to presidential term to get a better look further into the stories behind such pattern. 
+Variables I have in mind include political affiliation, corporate tax rate, tax cut accouncement, interest rate cut, immigration quotas, tariffs in key sectors, shock to the economy, etc. 
+Identifying causality can be challenging here due to multicollinearity endogeneity problems (i.e., our variables of interests can likely be correlated with each other; they can also be correlated with other unobservables). 
+There might be instrumental variables brought out by external shock, which I will explore further. 
