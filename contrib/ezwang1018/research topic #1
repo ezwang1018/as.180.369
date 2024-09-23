@@ -7,3 +7,16 @@ In addition, we can also incorporate some key variables relevant to presidential
 Variables I have in mind include political affiliation, corporate tax rate, tax cut accouncement, interest rate cut, immigration quotas, tariffs in key sectors, shock to the economy, etc. 
 Identifying causality can be challenging here due to multicollinearity endogeneity problems (i.e., our variables of interests can likely be correlated with each other; they can also be correlated with other unobservables). 
 There might be instrumental variables brought out by external shock, which I will explore further. 
+
+prompt:  I want to use this paragraph for a 3-min pitch in my economic research class. How can I improve it to make it more aligned with my audience?
+Presidential policies in the U.S. significantly influence the economy, especially through fiscal, monetary, trade, and immigration strategies. 
+These policies, often shaped by political ideology, may directly affect entrepreneurship. 
+My research aims to explore how different administrations impact business creation. 
+This is important because it helps evaluate the effectiveness of various presidential terms in promoting entrepreneurship and offers insights to business leaders on how government policies might shape their strategies. 
+While existing literature covers topics like the Democrat-Republican growth gap and the relationship between presidential terms and stock returns, little has focused on the direct impact on business creation.
+Using data from the Federal Reserve Economic Data from 2004 to 2024, I will map business formation trends to presidential terms. 
+To deepen the analysis, I'll examine key variables such as political affiliation, corporate tax rates, interest rates, immigration quotas, and external shocks. 
+These variables will help explain the drivers behind any patterns we observe. Of course, identifying causality is challenging due to multicollinearity and endogeneity issues—meaning these variables might correlate with each other or with unobservable factors. 
+To address this, I’ll explore the use of instrumental variables that may arise from external shocks. 
+By the end, I hope to offer a clearer picture of how presidential administrations influence entrepreneurship, shedding light on a largely unexplored area of economic research.
+
