@@ -39,6 +39,7 @@ With economic recovery efforts post-COVID-19 and heated debates about government
 
 commit 3:
 Prompt: Here's my new version. I wanted to further improve the writing and style - what should I do? 
+
 The relationship between political orientation and economic outcomes has been extensively studied, with a notable focus on macroeconomic indicators such as GDP growth, stock market performance, and unemployment rates. One foundational study is Douglas Hibbs' Political Parties and Macroeconomic Policy (1977), which analyzes how political ideologies shape economic outcomes. Using data from 12 Western European and North American nations, Hibbs demonstrates that left-leaning governments, such as the U.S. Democratic Party and the U.K. Labour Party, prioritize employment over inflation control. In contrast, right-leaning governments, including the Republican Party and the Conservatives, emphasize inflation control even at the expense of higher unemployment. Hibbs’ work set a precedent for understanding the impact of political leadership on economic outcomes.
 
 Building on these insights, Blinder and Watson (2016) analyze U.S. economic performance under Democratic and Republican presidents through the lens of GDP growth. They find that GDP growth is consistently higher under Democratic administrations, though much of this disparity remains unexplained by fiscal or monetary policy. Instead, external factors like oil shocks, productivity changes, and consumer sentiment may account for up to 56% of the growth gap.
