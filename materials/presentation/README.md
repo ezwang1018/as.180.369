@@ -2,11 +2,16 @@
 
 ## Overview
 
-## Mon Nov 27
+## Class 12
+
+**[Homework from previous class](https://github.com/llorracc/as.180.369/tree/main/materials/submission)**
 
 **Agenda**
 - Discussion of individual presentations (10 min ea).
+- Present your final (LitMap)
 - Tips & tricks for slideshow presenting.
+- reproduce.sh Q&A
+- Updating GitHub
 
 - Set computers up for miniconda.
     - Windows WSL https://learn.microsoft.com/en-us/windows/wsl/install 
@@ -54,7 +59,7 @@
 
 - Launch Jupyter Lab and view paper & presentation draft locally.
 
-## Mon Dec 4
+## Class 13
 
 **Agenda**
 - Presentations
