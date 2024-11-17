@@ -1,0 +1,417 @@
+⚠️  myst.yml Bibliography file references.bib not found
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 156 ms.
+📖 Built 02_introduction.md in 155 ms.
+📖 Built 03_literature.md in 155 ms.
+📖 Built 05_conclusion.md in 151 ms.
+📖 Built 07_appendix.ipynb in 151 ms.
+📖 Built 06_bibliography.ipynb in 159 ms.
+📖 Built 04_dataanalysis.ipynb in 168 ms.
+📖 Built 00_paper_root.md in 1.22 s.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 8 pages for project in 1.49 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 18.474 ms
+💌 GET  /abstract 200 - - 473.590 ms
+GET /literature 200 - - 477.963 ms
+GET /introduction 200 - - 502.185 ms
+GET /dataanalysis 200 - - 519.660 ms
+GET /paper-root 200 - - 517.844 ms
+GET /bibliography 200 - - 557.728 ms
+GET /appendix 200 - - 564.317 ms
+GET /conclusion 200 - - 598.040 ms
+GET /appendix.json 200 - - 515.726 ms
+GET /paper-root.json 200 - - 583.447 ms
+GET /abstract.json 200 - - 577.215 ms
+💌 GET  /literature.json 200 - - 570.598 ms
+GET /bibliography.json 200 - - 551.029 ms
+GET /introduction.json 200 - - 573.533 ms
+GET /conclusion.json 200 - - 561.286 ms
+GET /dataanalysis.json 200 - - 562.956 ms
+GET /myst-theme.css 200 - - 506.978 ms
+💌 GET  /favicon.ico 200 - - 552.325 ms
+⚠️  myst.yml Bibliography file references.bib not found
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 144 ms.
+📖 Built 02_introduction.md in 144 ms.
+📖 Built 03_literature.md in 143 ms.
+📖 Built 05_conclusion.md in 140 ms.
+📖 Built 07_appendix.ipynb in 139 ms.
+📖 Built 06_bibliography.ipynb in 147 ms.
+📖 Built 04_dataanalysis.ipynb in 155 ms.
+📖 Built 00_paper_root.md in 1.44 s.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 8 pages for project in 1.72 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /paper-root 200 - - 390.903 ms
+GET /introduction 200 - - 369.154 ms
+GET /literature 200 - - 380.255 ms
+GET /abstract 200 - - 421.456 ms
+💌 GET  /dataanalysis 200 - - 441.916 ms
+GET /conclusion 200 - - 444.091 ms
+GET /abstract.json 200 - - 378.463 ms
+GET /bibliography 200 - - 471.728 ms
+💌 GET  /introduction.json 200 - - 378.838 ms
+GET /appendix 200 - - 511.222 ms
+GET /paper-root.json 200 - - 507.938 ms
+GET /literature.json 200 - - 237.944 ms
+GET /dataanalysis.json 200 - - 182.053 ms
+GET /robots.txt 200 - - 4.485 ms
+💌 GET  /conclusion.json 200 - - 216.159 ms
+💌 GET  /myst-theme.css 200 - - 153.278 ms
+GET /bibliography.json 200 - - 263.885 ms
+GET /appendix.json 200 - - 228.229 ms
+💌 GET  /favicon.ico 200 - - 244.089 ms
+⚠️  myst.yml Bibliography file references.bib not found
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 242 ms.
+📖 Built 02_introduction.md in 242 ms.
+📖 Built 03_literature.md in 241 ms.
+📖 Built 05_conclusion.md in 234 ms.
+📖 Built 07_appendix.ipynb in 230 ms.
+📖 Built 06_bibliography.ipynb in 242 ms.
+📖 Built 04_dataanalysis.ipynb in 251 ms.
+📖 Built 00_paper_root.md in 1.58 s.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 8 pages for project in 1.87 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /abstract 200 - - 435.269 ms
+GET /introduction 200 - - 444.843 ms
+💌 GET  /literature 200 - - 458.142 ms
+GET /paper-root 200 - - 477.535 ms
+GET /conclusion 200 - - 461.662 ms
+GET /literature.json 200 - - 392.096 ms
+GET /paper-root.json 200 - - 447.924 ms
+GET /abstract.json 200 - - 444.658 ms
+GET /dataanalysis.json 200 - - 408.041 ms
+GET /dataanalysis 200 - - 537.425 ms
+💌 GET  /bibliography 200 - - 545.619 ms
+GET /appendix 200 - - 556.118 ms
+GET /introduction.json 200 - - 532.341 ms
+GET /conclusion.json 200 - - 415.871 ms
+GET /robots.txt 200 - - 5.307 ms
+GET /bibliography.json 200 - - 459.027 ms
+GET /appendix.json 200 - - 216.819 ms
+💌 GET  /myst-theme.css 200 - - 147.378 ms
+💌 GET  /favicon.ico 200 - - 337.570 ms
+⛔️ _toc.yml Referenced file not found: 06_bibliography
+⚠️  myst.yml Bibliography file references.bib not found
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 142 ms.
+📖 Built 02_introduction.md in 141 ms.
+📖 Built 03_literature.md in 141 ms.
+📖 Built 05_conclusion.md in 137 ms.
+📖 Built 07_appendix.ipynb in 138 ms.
+📖 Built 04_dataanalysis.ipynb in 151 ms.
+⛔️ 00_paper_root.md Include Directive: Could not find "06_bibliography.ipynb" relative to "00_paper_root.md"
+📖 Built 00_paper_root.md in 1.35 s.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 7 pages for project in 1.57 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 8.302 ms
+GET /introduction 200 - - 433.606 ms
+GET /abstract 200 - - 442.480 ms
+GET /literature 200 - - 444.273 ms
+GET /dataanalysis 200 - - 468.595 ms
+💌 GET  /paper-root.json 200 - - 444.570 ms
+GET /paper-root 200 - - 493.575 ms
+GET /dataanalysis.json 200 - - 424.897 ms
+GET /conclusion 200 - - 494.035 ms
+GET /appendix 200 - - 502.251 ms
+GET /abstract.json 200 - - 488.709 ms
+GET /introduction.json 200 - - 484.535 ms
+GET /literature.json 200 - - 480.788 ms
+GET /appendix.json 200 - - 432.488 ms
+GET /myst-theme.css 200 - - 343.642 ms
+GET /conclusion.json 200 - - 503.619 ms
+💌 GET  /favicon.ico 200 - - 172.644 ms
+⛔️ _toc.yml Referenced file not found: 06_bibliography
+⚠️  myst.yml Bibliography file references.bib not found
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 143 ms.
+📖 Built 02_introduction.md in 143 ms.
+📖 Built 03_literature.md in 143 ms.
+📖 Built 05_conclusion.md in 139 ms.
+📖 Built 07_appendix.ipynb in 140 ms.
+📖 Built 04_dataanalysis.ipynb in 152 ms.
+⛔️ 00_paper_root.md Include Directive: Could not find "06_bibliography.ipynb" relative to "00_paper_root.md"
+📖 Built 00_paper_root.md in 579 ms.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 7 pages for project in 803 ms.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 12.588 ms
+💌 GET  /paper-root.json 200 - - 229.948 ms
+GET /abstract.json 200 - - 221.744 ms
+💌 GET  /introduction.json 200 - - 218.446 ms
+GET /paper-root 200 - - 500.937 ms
+GET /appendix 200 - - 440.289 ms
+GET /abstract 200 - - 514.843 ms
+GET /conclusion.json 200 - - 431.449 ms
+GET /introduction 200 - - 531.034 ms
+GET /literature.json 200 - - 468.368 ms
+GET /dataanalysis.json 200 - - 467.898 ms
+GET /myst-theme.css 200 - - 428.084 ms
+💌 GET  /appendix.json 200 - - 468.095 ms
+GET /literature 200 - - 568.273 ms
+GET /dataanalysis 200 - - 589.723 ms
+GET /conclusion 200 - - 595.287 ms
+💌 GET  /favicon.ico 200 - - 560.445 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 156 ms.
+📖 Built 02_introduction.md in 156 ms.
+📖 Built 03_literature.md in 155 ms.
+📖 Built 05_conclusion.md in 151 ms.
+📖 Built 07_appendix.ipynb in 150 ms.
+📖 Built 06_bibliography.ipynb in 160 ms.
+📖 Built 04_dataanalysis.ipynb in 168 ms.
+📖 Built 00_paper_root.md in 1.42 s.
+⚠️  00_paper_root.md Could not link citation with label "Bremus2020-ht".
+⚠️  00_paper_root.md Could not link citation with label "political_hibbs_1977".
+⚠️  00_paper_root.md Could not link citation with label "presidents_blinder_2016".
+⚠️  00_paper_root.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  00_paper_root.md Could not link citation with label "global_boumans_2021".
+⚠️  00_paper_root.md Could not link citation with label "cost_nanda_2008".
+⚠️  00_paper_root.md Could not link citation with label "Hemmelgarn2014-eq".
+⚠️  03_literature.md Could not link citation with label "Bremus2020-ht".
+⚠️  03_literature.md Could not link citation with label "political_hibbs_1977".
+⚠️  03_literature.md Could not link citation with label "presidents_blinder_2016".
+⚠️  03_literature.md Could not link citation with label "presidential_santaclara_2003".
+⚠️  03_literature.md Could not link citation with label "global_boumans_2021".
+⚠️  03_literature.md Could not link citation with label "cost_nanda_2008".
+⚠️  04_dataanalysis.ipynb Could not link citation with label "Hemmelgarn2014-eq".
+📚 Built 8 pages for project in 1.67 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.17     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /paper-root 200 - - 373.329 ms
+GET /introduction 200 - - 345.724 ms
+GET /literature 200 - - 356.206 ms
+GET /abstract 200 - - 397.591 ms
+GET /abstract.json 200 - - 296.602 ms
+💌 GET  /dataanalysis 200 - - 412.998 ms
+GET /conclusion 200 - - 415.244 ms
+GET /bibliography 200 - - 423.325 ms
+GET /introduction.json 200 - - 350.510 ms
+GET /appendix 200 - - 446.810 ms
+GET /paper-root.json 200 - - 443.227 ms
+GET /literature.json 200 - - 363.628 ms
+GET /dataanalysis.json 200 - - 219.185 ms
+GET /robots.txt 200 - - 4.096 ms
+GET /conclusion.json 200 - - 149.950 ms
+💌 GET  /bibliography.json 200 - - 205.920 ms
+💌 GET  /myst-theme.css 200 - - 194.631 ms
+GET /appendix.json 200 - - 266.612 ms
+💌 GET  /favicon.ico 200 - - 280.697 ms

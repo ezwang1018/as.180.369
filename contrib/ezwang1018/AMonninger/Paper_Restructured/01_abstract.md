@@ -1,0 +1,6 @@
+# Abstract
++++ {"part": "abstract"}
+This is the place where you should write your preliminary abstract (up to 120 words).
+
+The economic performance of the U.S. is often linked to the political affiliation of the incumbent president, with studies suggesting stronger GDP growth under Democratic administrations. However, while existing research has primarily focused on macroeconomic indicators such as GDP growth, unemployment, and stock market performance, little attention has been given to business formation—a critical driver of economic vitality. This study addresses that gap by analyzing the relationship between presidential political affiliation and the annual rate of new business formation in the U.S. from 1978 to 2021, using data from the Business Dynamics Statistics (BDS) published by the U.S. Census Bureau. To ensure robust results, the analysis controls for key economic and political variables, including real GDP growth, unemployment, inflation, real interest rates, corporate tax rates, population growth, and the composition of Congress. Preliminary findings suggest xxxx… These results contribute to the broader discussion of how political leadership impacts economic outcomes and offer valuable insights for policymakers seeking to foster entrepreneurship and for business leaders navigating political uncertainty.
++++
