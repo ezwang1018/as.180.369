@@ -42,7 +42,7 @@
           - ```ls -las```(reproduce.sh file should be green now)
         - run the file using
             ```/bin/bash reproduce.sh```
-        - NOTE: I build the paper using myst and save it as a pdf. To specify options here, adjust your myst.yml file
+        - NOTE: I build the paper using myst and save it as a pdf. To specify options here, adjust your [myst.yml](../../contrib/AMonninger/Paper_Restructured/myst.yml) file
     - Sync your GitHub fork to assure that binder can access all information
 - In class work time.
     - Bring your questions.

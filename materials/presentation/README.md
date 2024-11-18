@@ -59,6 +59,10 @@
 
 - Launch Jupyter Lab and view paper & presentation draft locally.
 
+# Homework
+- If you are a Windows user, install the Windows Subsystem for Linux(WSL)
+- Then, for all(Mac and WSL) install Miniconda from the Miniconda website (if using WSL, install inside WSL)
+
 ## Class 13
 
 **Agenda**
