@@ -415,3 +415,333 @@ GET /conclusion.json 200 - - 149.950 ms
 💌 GET  /myst-theme.css 200 - - 194.631 ms
 GET /appendix.json 200 - - 266.612 ms
 💌 GET  /favicon.ico 200 - - 280.697 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.03 s.
+📖 Built 02_introduction.md in 1.03 s.
+📖 Built 03_literature.md in 1.03 s.
+📖 Built 05_conclusion.md in 1.03 s.
+📖 Built 07_appendix.ipynb in 1.02 s.
+📖 Built 06_bibliography.ipynb in 1.03 s.
+📖 Built 04_dataanalysis.ipynb in 1.04 s.
+📖 Built 00_paper_root.md in 2.42 s.
+📚 Built 8 pages for project in 2.65 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 13.072 ms
+💌 GET  /paper-root.json 200 - - 247.433 ms
+GET /myst-theme.css 200 - - 105.450 ms
+GET /abstract 200 - - 519.003 ms
+GET /introduction 200 - - 528.190 ms
+GET /literature 200 - - 543.914 ms
+GET /dataanalysis 200 - - 562.379 ms
+GET /conclusion 200 - - 565.445 ms
+GET /bibliography 200 - - 570.882 ms
+GET /appendix 200 - - 577.062 ms
+GET /bibliography.json 200 - - 526.877 ms
+GET /abstract.json 200 - - 557.866 ms
+GET /introduction.json 200 - - 554.577 ms
+GET /literature.json 200 - - 567.883 ms
+GET /dataanalysis.json 200 - - 566.608 ms
+GET /conclusion.json 200 - - 567.976 ms
+GET /paper-root 200 - - 561.494 ms
+GET /appendix.json 200 - - 613.525 ms
+💌 GET  /favicon.ico 200 - - 570.385 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 948 ms.
+📖 Built 02_introduction.md in 948 ms.
+📖 Built 03_literature.md in 947 ms.
+📖 Built 05_conclusion.md in 944 ms.
+📖 Built 07_appendix.ipynb in 943 ms.
+📖 Built 06_bibliography.ipynb in 966 ms.
+📖 Built 04_dataanalysis.ipynb in 974 ms.
+📖 Built 00_paper_root.md in 2.39 s.
+📚 Built 8 pages for project in 2.63 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 13.022 ms
+💌 GET  /abstract 200 - - 406.005 ms
+GET /introduction 200 - - 488.358 ms
+GET /dataanalysis 200 - - 510.680 ms
+GET /literature 200 - - 523.749 ms
+GET /conclusion 200 - - 526.348 ms
+GET /bibliography 200 - - 530.634 ms
+GET /paper-root.json 200 - - 521.107 ms
+GET /abstract.json 200 - - 517.240 ms
+💌 GET  /paper-root 200 - - 543.904 ms
+GET /appendix 200 - - 599.802 ms
+GET /appendix.json 200 - - 551.548 ms
+GET /introduction.json 200 - - 582.068 ms
+GET /literature.json 200 - - 579.550 ms
+GET /dataanalysis.json 200 - - 577.442 ms
+GET /conclusion.json 200 - - 574.523 ms
+GET /bibliography.json 200 - - 571.746 ms
+GET /myst-theme.css 200 - - 515.332 ms
+💌 GET  /favicon.ico 200 - - 676.669 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 974 ms.
+📖 Built 02_introduction.md in 974 ms.
+📖 Built 03_literature.md in 973 ms.
+📖 Built 05_conclusion.md in 970 ms.
+📖 Built 07_appendix.ipynb in 969 ms.
+📖 Built 06_bibliography.ipynb in 979 ms.
+📖 Built 04_dataanalysis.ipynb in 986 ms.
+📖 Built 00_paper_root.md in 2 s.
+📚 Built 8 pages for project in 2.21 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 6.153 ms
+💌 GET  /abstract 200 - - 428.488 ms
+GET /introduction 200 - - 437.382 ms
+GET /literature 200 - - 454.191 ms
+GET /dataanalysis 200 - - 479.495 ms
+GET /conclusion 200 - - 478.663 ms
+GET /myst-theme.css 200 - - 323.386 ms
+GET /paper-root 200 - - 471.227 ms
+GET /paper-root.json 200 - - 480.999 ms
+GET /abstract.json 200 - - 476.355 ms
+GET /introduction.json 200 - - 474.075 ms
+GET /literature.json 200 - - 472.239 ms
+GET /dataanalysis.json 200 - - 470.703 ms
+GET /conclusion.json 200 - - 467.829 ms
+GET /appendix 200 - - 564.649 ms
+GET /appendix.json 200 - - 516.440 ms
+GET /bibliography.json 200 - - 542.141 ms
+GET /bibliography 200 - - 594.941 ms
+💌 GET  /favicon.ico 200 - - 690.260 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.01 s.
+📖 Built 02_introduction.md in 1.01 s.
+📖 Built 03_literature.md in 1 s.
+📖 Built 05_conclusion.md in 1 s.
+📖 Built 07_appendix.ipynb in 1 s.
+📖 Built 06_bibliography.ipynb in 1.01 s.
+📖 Built 04_dataanalysis.ipynb in 1.02 s.
+📖 Built 00_paper_root.md in 2.35 s.
+📚 Built 8 pages for project in 2.56 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 12.981 ms
+💌 GET  /myst-theme.css 200 - - 158.695 ms
+💌 GET  /paper-root.json 200 - - 298.511 ms
+GET /abstract.json 200 - - 295.877 ms
+GET /introduction.json 200 - - 295.643 ms
+GET /literature.json 200 - - 295.337 ms
+GET /dataanalysis.json 200 - - 295.845 ms
+GET /conclusion.json 200 - - 294.310 ms
+GET /bibliography.json 200 - - 294.042 ms
+💌 GET  /appendix.json 200 - - 294.231 ms
+GET /introduction 200 - - 470.063 ms
+GET /literature 200 - - 494.990 ms
+GET /dataanalysis 200 - - 532.761 ms
+GET /conclusion 200 - - 538.278 ms
+GET /bibliography 200 - - 555.196 ms
+GET /appendix 200 - - 563.913 ms
+GET /abstract 200 - - 671.438 ms
+GET /paper-root 200 - - 721.964 ms
+💌 GET  /favicon.ico 200 - - 701.277 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 983 ms.
+📖 Built 02_introduction.md in 982 ms.
+📖 Built 03_literature.md in 982 ms.
+📖 Built 05_conclusion.md in 980 ms.
+📖 Built 07_appendix.ipynb in 979 ms.
+📖 Built 06_bibliography.ipynb in 988 ms.
+📖 Built 04_dataanalysis.ipynb in 995 ms.
+📖 Built 00_paper_root.md in 2.08 s.
+📚 Built 8 pages for project in 2.29 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 7.219 ms
+💌 GET  /abstract 200 - - 419.701 ms
+GET /introduction 200 - - 428.246 ms
+GET /dataanalysis 200 - - 442.713 ms
+GET /paper-root 200 - - 463.003 ms
+GET /literature 200 - - 489.961 ms
+GET /conclusion 200 - - 481.408 ms
+GET /bibliography 200 - - 490.138 ms
+GET /paper-root.json 200 - - 476.640 ms
+GET /abstract.json 200 - - 475.504 ms
+GET /introduction.json 200 - - 474.463 ms
+💌 GET  /literature.json 200 - - 473.555 ms
+GET /dataanalysis.json 200 - - 472.093 ms
+GET /appendix.json 200 - - 431.058 ms
+GET /myst-theme.css 200 - - 347.309 ms
+GET /appendix 200 - - 550.755 ms
+GET /bibliography.json 200 - - 503.098 ms
+GET /conclusion.json 200 - - 510.957 ms
+💌 GET  /favicon.ico 200 - - 361.205 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 965 ms.
+📖 Built 02_introduction.md in 964 ms.
+📖 Built 03_literature.md in 964 ms.
+📖 Built 05_conclusion.md in 960 ms.
+📖 Built 07_appendix.ipynb in 959 ms.
+📖 Built 06_bibliography.ipynb in 983 ms.
+📖 Built 04_dataanalysis.ipynb in 991 ms.
+📖 Built 00_paper_root.md in 2.43 s.
+📚 Built 8 pages for project in 2.66 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /abstract 200 - - 321.998 ms
+GET /introduction 200 - - 340.563 ms
+GET /literature 200 - - 372.873 ms
+💌 GET  /dataanalysis 200 - - 418.553 ms
+GET /conclusion 200 - - 419.078 ms
+GET /paper-root.json 200 - - 426.935 ms
+GET /literature.json 200 - - 374.688 ms
+GET /bibliography 200 - - 473.759 ms
+GET /paper-root 200 - - 579.740 ms
+GET /conclusion.json 200 - - 346.889 ms
+GET /introduction.json 200 - - 445.776 ms
+GET /abstract.json 200 - - 454.716 ms
+GET /appendix 200 - - 489.734 ms
+GET /dataanalysis.json 200 - - 392.368 ms
+GET /robots.txt 200 - - 3.926 ms
+GET /bibliography.json 200 - - 217.618 ms
+💌 GET  /myst-theme.css 200 - - 198.727 ms
+💌 GET  /appendix.json 200 - - 279.477 ms
+💌 GET  /favicon.ico 200 - - 487.390 ms
