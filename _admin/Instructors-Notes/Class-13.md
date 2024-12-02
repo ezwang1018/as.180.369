@@ -48,7 +48,7 @@
 - run reproduce.sh
 
 OPEN QUESTIONS:
-- how to get jupyterlab-rise=0.42.0
+[x] how to get jupyterlab-rise=0.42.0
 - Do we want to create the environment in reproduce.sh
   - If yes: Add to reproduce.sh:
     ```
