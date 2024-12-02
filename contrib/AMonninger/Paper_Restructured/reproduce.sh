@@ -10,6 +10,7 @@ case $input in
     echo "Environment will not be updated"
     ;;
     esac
+
 # Activate environment
 conda activate ./econ_ark
     
