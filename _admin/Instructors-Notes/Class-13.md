@@ -40,3 +40,19 @@
     - ```ls -las```(reproduce.sh file should be green now)
 - run reproduce.sh
 
+OPEN QUESTIONS:
+- how to get jupyterlab-rise=0.42.0
+- Do we want to create the environment in reproduce.sh
+  - If yes: Add to reproduce.sh:
+    ```
+    # Create the environment
+    ml anaconda
+    conda env update --file ./binder/environment.yml
+    conda activate ./econark
+    ```
+  - if no: Add to list above:
+    - Create your environment
+      ```
+      conda env create -f ./binder/environment.yml
+      conda activate econark
+      ```
