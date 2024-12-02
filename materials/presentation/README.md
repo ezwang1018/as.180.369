@@ -73,6 +73,7 @@
         - ```ls -las``` (shows if it is executable)
         - ```chmod u+x reproduce.sh ```
         - ```ls -las```(reproduce.sh file should be green now)
+    - run reproduce.sh
     - to get jupyterlab-rise working (for your slideshows):
         - ```conda uninstall httpx```
         - ```conda install "httpx<0.28.0```
@@ -80,7 +81,6 @@
         - once jupyter lab opens, click the extensions(puzzle piece) button on the left hand menu bar
         - type "rise" into the extensions search bar
         - install jupyterlab-rise
-    - run reproduce.sh
 
 If you want to run your code without reproduce.sh
 - Creat the environment (only need to do this once):
@@ -91,6 +91,13 @@ If you want to run your code without reproduce.sh
   ```
   activate econark
   ```
+- to get jupyterlab-rise working (for your slideshows, only need to do this once):
+  ```conda uninstall httpx```
+  ```conda install "httpx<0.28.0```
+  ```jupyter lab```
+  - once jupyter lab opens, click the extensions(puzzle piece) button on the left hand menu bar
+  - type "rise" into the extensions search bar
+  - install jupyterlab-rise
 - run myst start or just build the pdf
   ```
   # to start
