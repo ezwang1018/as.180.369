@@ -54,7 +54,7 @@
         - replace the packages with the list on your terminal.
         - delete line for jupyterlab-rise=0.42.0
     
-    - Adjust reproduce.sh (see [example](../contrib/AMonninger/Paper_Restructured/reproduce.sh))
+    - Adjust reproduce.sh (see [example](../../contrib/AMonninger/Paper_Restructured/reproduce.sh))
         - make sure to activate the kernel
         ```
         python -m ipykernel install --user --name econark
