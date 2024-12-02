@@ -9,7 +9,6 @@ dependencies:
   - jupyter-server-proxy=4.4.0
   - jupyterlab=4.2.5
   - jupyterlab-myst=2.4.2
-  - jupyterlab-rise=0.42.0
   - linearmodels=6.1
   - matplotlib=3.9.2
   - matplotlib-base=3.9.2
