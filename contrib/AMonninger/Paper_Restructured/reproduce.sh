@@ -1,8 +1,17 @@
 #!/bin/bash
 # Create the environment
-ml anaconda
-conda env update --file ./binder/environment.yml
-conda activate ./econark
+read -r -p "Do you want to create/update your environment? [y/n]" input
+
+case $input in
+    [yY][eE][sS]|[yY])
+    conda env update --file ./binder/environment.yml 
+    ;;
+    [nN][oO]|[nN])
+    echo "Environment will not be updated"
+    ;;
+    esac
+# Activate environment
+conda activate ./econ_ark
     
 # Run the Jupyter notebook and execute all cells in place
 python -m ipykernel install --user --name econark
