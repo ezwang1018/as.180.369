@@ -1,4 +1,4 @@
-#Final Class: From Sciserver to local machines
+# Final Class: From Sciserver to local machines
 
 1. On Sciserver
 - Create a file of YOUR environment:
