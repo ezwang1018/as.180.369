@@ -83,11 +83,11 @@
     - run reproduce.sh
 
 If you want to run your code without reproduce.sh
-- Creat the environment (only need to do this once)
+- Creat the environment (only need to do this once):
   ```
   conda env create -f ./binder/environment.yml
   ```
-- Activate the environment:
+- Activate the environment (Do this everytime you start a new terminal):
   ```
   activate econark
   ```
