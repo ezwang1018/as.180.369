@@ -29,10 +29,15 @@
             mkdir binder
             cd binder
             ```
-        - create the environment file: This will create a file with all installed packages including versions
+        - create the environment file: This will create a file with all installed packages
             ```
-            conda env export -f environment.yml
+            conda env export --from-history -f environment.yml
             ```
+        - get the specified versions:
+          ```
+            conda list | grep -E -i -w "^$(conda env export --no-builds --from-history | awk '$1 == "-"{ if (key == "dependencies:") print $NF; next } {key=$1}' | sed 's/=.*//' | tr -s '\r\n' '|' | sed 's/|$//')\s" | awk '{ print $1 "=" $2 }' | sed 's/^/  - /'
+          ```
+        - replace the packages with the list on your terminal 
     - Create a reproduce.sh file:
         - copy and paste the file from [AMonninger](../../contrib/AMonninger/Paper_Restructured)
         - Replace jupyter notebook names with the file names of your paper
