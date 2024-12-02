@@ -1,5 +1,5 @@
 # Introduction
-Here will be an introduction (3-4 paragraphs containing intro and research question/ explanation of topic/ literature review/ potential results)
+
 
 New business formation reflects a nation’s commitment to innovation, entrepreneurial vibrancy, and potential for economic growth. Policies governing taxes, loans, and business registration are often shaped by the incumbent administration’s political ideology, influencing entrepreneurs' decisions to launch new ventures. Therefore, understanding how political affiliation affects entrepreneurship can provide useful insights for policymakers seeking to promote business activity and for entrepreneurs evaluating economic conditions.
 

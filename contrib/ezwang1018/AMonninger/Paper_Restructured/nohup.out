@@ -745,3 +745,555 @@ GET /bibliography.json 200 - - 217.618 ms
 💌 GET  /myst-theme.css 200 - - 198.727 ms
 💌 GET  /appendix.json 200 - - 279.477 ms
 💌 GET  /favicon.ico 200 - - 487.390 ms
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+ENOTEMPTY: directory not empty, rmdir '_build/html/build/_assets'
+
+
+Myst CLI Versions:
+ - node                         22.9.0     Required: >= 18.0.0      
+ - npm                          10.8.3     Required: >=8.6.0        
+ - myst                         1.3.16     
+
+
+📖 Built 01_abstract.md in 1.08 s.
+📖 Built 02_introduction.md in 1.08 s.
+📖 Built 03_literature.md in 1.07 s.
+📖 Built 05_conclusion.md in 1.07 s.
+📖 Built 07_appendix.ipynb in 1.07 s.
+📖 Built 06_bibliography.ipynb in 1.08 s.
+📖 Built 04_dataanalysis.ipynb in 1.09 s.
+📖 Built 00_paper_root.md in 2.46 s.
+📚 Built 8 pages for project in 2.68 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+💌 GET  /robots.txt 200 - - 13.187 ms
+💌 GET  /abstract 200 - - 460.775 ms
+GET /myst-theme.css 200 - - 291.844 ms
+GET /literature 200 - - 480.972 ms
+GET /dataanalysis.json 200 - - 399.527 ms
+GET /dataanalysis 200 - - 536.965 ms
+GET /conclusion.json 200 - - 462.343 ms
+GET /conclusion 200 - - 547.192 ms
+💌 GET  /bibliography.json 200 - - 478.154 ms
+GET /bibliography 200 - - 566.938 ms
+GET /appendix.json 200 - - 503.768 ms
+GET /appendix 200 - - 570.773 ms
+GET /abstract.json 200 - - 615.325 ms
+GET /paper-root.json 200 - - 580.501 ms
+GET /introduction.json 200 - - 612.123 ms
+GET /introduction 200 - - 710.836 ms
+GET /literature.json 200 - - 624.229 ms
+GET /paper-root 200 - - 779.340 ms
+💌 GET  /favicon.ico 200 - - 592.111 ms
+🌎 Building MyST site
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.19 s.
+📖 Built 02_introduction.md in 1.19 s.
+📖 Built 03_literature.md in 1.18 s.
+📖 Built 05_conclusion.md in 1.18 s.
+📖 Built 07_appendix.ipynb in 1.18 s.
+📖 Built 06_bibliography.ipynb in 1.19 s.
+📖 Built 04_dataanalysis.ipynb in 1.2 s.
+📖 Built 01_abstract.md in 1.25 s.
+📖 Built 02_introduction.md in 1.25 s.
+📖 Built 03_literature.md in 1.24 s.
+📖 Built 05_conclusion.md in 1.24 s.
+📖 Built 07_appendix.ipynb in 1.24 s.
+📖 Built 06_bibliography.ipynb in 1.25 s.
+📖 Built 04_dataanalysis.ipynb in 1.26 s.
+📖 Built 00_paper_root.md in 2.61 s.
+📖 Built 00_paper_root.md in 2.68 s.
+📚 Built 8 pages for project in 2.9 s.
+📚 Built 8 pages for project in 2.92 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+   ╭────────────────────────────────────────────╮
+   │                                            │
+   │    Update available! v1.3.16 ≫ v1.3.18     │
+   │                                            │
+   │   Run `pip install -U mystmd` to update.   │
+   │                                            │
+   │     Follow @MystMarkdown for updates!      │
+   │      https://twitter.com/MystMarkdown      │
+   │                                            │
+   ╰────────────────────────────────────────────╯
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (_build/templates/site/myst/article-theme/node_modules/express/lib/application.js:635:24)
+    at start (_build/templates/site/myst/article-theme/server.js:40:7)
+    at Object.<anonymous> (_build/templates/site/myst/article-theme/server.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+
+💌 GET  /robots.txt 200 - - 13.282 ms
+💌 GET  /abstract 200 - - 510.021 ms
+GET /introduction 200 - - 515.890 ms
+GET /literature 200 - - 535.125 ms
+GET /dataanalysis 200 - - 561.486 ms
+GET /conclusion 200 - - 563.958 ms
+GET /bibliography 200 - - 568.293 ms
+GET /paper-root.json 200 - - 558.524 ms
+💌 GET  /paper-root 200 - - 556.597 ms
+GET /appendix.json 200 - - 581.674 ms
+GET /abstract.json 200 - - 633.069 ms
+GET /appendix 200 - - 647.997 ms
+GET /introduction.json 200 - - 629.713 ms
+GET /literature.json 200 - - 627.354 ms
+GET /conclusion.json 200 - - 622.819 ms
+GET /bibliography.json 200 - - 620.044 ms
+GET /dataanalysis.json 200 - - 625.913 ms
+GET /myst-theme.css 200 - - 546.074 ms
+💌 GET  /favicon.ico 200 - - 563.315 ms
+Terminated
+🌎 Building MyST site
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.44 s.
+📖 Built 02_introduction.md in 1.44 s.
+📖 Built 03_literature.md in 1.44 s.
+📖 Built 05_conclusion.md in 1.44 s.
+📖 Built 07_appendix.ipynb in 1.44 s.
+📖 Built 01_abstract.md in 1.45 s.
+📖 Built 02_introduction.md in 1.45 s.
+📖 Built 03_literature.md in 1.45 s.
+📖 Built 05_conclusion.md in 1.44 s.
+📖 Built 07_appendix.ipynb in 1.44 s.
+📖 Built 06_bibliography.ipynb in 1.49 s.
+📖 Built 04_dataanalysis.ipynb in 1.5 s.
+📖 Built 06_bibliography.ipynb in 1.51 s.
+📖 Built 04_dataanalysis.ipynb in 1.53 s.
+📖 Built 01_abstract.md in 1.56 s.
+📖 Built 02_introduction.md in 1.59 s.
+📖 Built 03_literature.md in 1.59 s.
+📖 Built 05_conclusion.md in 1.59 s.
+📖 Built 07_appendix.ipynb in 1.59 s.
+📖 Built 06_bibliography.ipynb in 1.6 s.
+📖 Built 04_dataanalysis.ipynb in 1.61 s.
+📖 Built 00_paper_root.md in 2.93 s.
+📖 Built 00_paper_root.md in 2.95 s.
+📖 Built 00_paper_root.md in 2.95 s.
+📚 Built 8 pages for project in 3.33 s.
+📚 Built 8 pages for project in 3.33 s.
+📚 Built 8 pages for project in 3.34 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3101
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:137720:28)
+    at startContentServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317374:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async startServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317432:18)
+    at async buildHtml (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317563:21)
+    at async build (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317787:9)
+    at async Command2.<anonymous> (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:332293:7)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1944:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3101
+}
+
+Node.js v22.9.0
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (_build/templates/site/myst/article-theme/node_modules/express/lib/application.js:635:24)
+    at start (_build/templates/site/myst/article-theme/server.js:40:7)
+    at Object.<anonymous> (_build/templates/site/myst/article-theme/server.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+
+
+╭─────────────────────────╮
+│                         │
+│    Update available!    │
+│    v1.3.16 ≫ v1.3.18    │
+│                         │
+│   Run `pip install -U   │
+│   mystmd` to update.    │
+│                         │
+│         Follow          │
+│    @MystMarkdown for    │
+│        updates!         │
+│   https://twitter.com   │
+│      /MystMarkdown      │
+│                         │
+╰─────────────────────────╯
+
+💌 GET  /paper-root 200 - - 436.084 ms
+GET /robots.txt 200 - - 5.272 ms
+GET /literature.json 200 - - 283.383 ms
+GET /paper-root.json 200 - - 335.659 ms
+GET /abstract 200 - - 429.082 ms
+GET /literature 200 - - 431.866 ms
+GET /introduction 200 - - 459.666 ms
+GET /abstract.json 200 - - 390.994 ms
+GET /dataanalysis 200 - - 477.982 ms
+GET /dataanalysis.json 200 - - 367.444 ms
+GET /introduction.json 200 - - 450.193 ms
+GET /bibliography.json 200 - - 369.855 ms
+💌 GET  /conclusion 200 - - 507.567 ms
+GET /bibliography 200 - - 514.253 ms
+GET /appendix 200 - - 519.136 ms
+GET /appendix.json 200 - - 420.383 ms
+GET /myst-theme.css 200 - - 79.118 ms
+💌 GET  /conclusion.json 200 - - 313.237 ms
+💌 GET  /favicon.ico 200 - - 384.536 ms
+Terminated
+Terminated
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.8 s.
+📖 Built 02_introduction.md in 1.8 s.
+📖 Built 03_literature.md in 1.8 s.
+📖 Built 05_conclusion.md in 1.78 s.
+📖 Built 07_appendix.ipynb in 1.78 s.
+📖 Built 01_abstract.md in 1.91 s.
+📖 Built 02_introduction.md in 1.91 s.
+📖 Built 03_literature.md in 1.91 s.
+📖 Built 05_conclusion.md in 1.89 s.
+📖 Built 06_bibliography.ipynb in 1.89 s.
+📖 Built 07_appendix.ipynb in 1.89 s.
+📖 Built 04_dataanalysis.ipynb in 1.9 s.
+📖 Built 06_bibliography.ipynb in 1.91 s.
+📖 Built 04_dataanalysis.ipynb in 1.93 s.
+📖 Built 01_abstract.md in 1.95 s.
+📖 Built 02_introduction.md in 1.94 s.
+📖 Built 03_literature.md in 1.94 s.
+📖 Built 05_conclusion.md in 1.93 s.
+📖 Built 07_appendix.ipynb in 1.93 s.
+📖 Built 06_bibliography.ipynb in 1.94 s.
+📖 Built 04_dataanalysis.ipynb in 1.95 s.
+📖 Built 00_paper_root.md in 3.68 s.
+📖 Built 00_paper_root.md in 3.69 s.
+📖 Built 00_paper_root.md in 3.71 s.
+📚 Built 8 pages for project in 4.11 s.
+📚 Built 8 pages for project in 4.14 s.
+📚 Built 8 pages for project in 4.14 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3100
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:137720:28)
+    at startContentServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317374:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async startServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317432:18)
+    at async buildHtml (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317563:21)
+    at async build (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317787:9)
+    at async Command2.<anonymous> (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:332293:7)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1944:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3100
+}
+
+Node.js v22.9.0
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+╭─────────────────────────╮
+│                         │
+│    Update available!    │
+│    v1.3.16 ≫ v1.3.18    │
+│                         │
+│   Run `pip install -U   │
+│   mystmd` to update.    │
+│                         │
+│         Follow          │
+│    @MystMarkdown for    │
+│        updates!         │
+│   https://twitter.com   │
+│      /MystMarkdown      │
+│                         │
+╰─────────────────────────╯
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (_build/templates/site/myst/article-theme/node_modules/express/lib/application.js:635:24)
+    at start (_build/templates/site/myst/article-theme/server.js:40:7)
+    at Object.<anonymous> (_build/templates/site/myst/article-theme/server.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+
+💌 GET  /robots.txt 200 - - 13.626 ms
+💌 GET  /paper-root.json 200 - - 301.503 ms
+GET /myst-theme.css 200 - - 160.354 ms
+GET /abstract.json 200 - - 294.245 ms
+GET /introduction.json 200 - - 291.742 ms
+GET /literature.json 200 - - 322.777 ms
+GET /dataanalysis.json 200 - - 321.292 ms
+GET /introduction 200 - - 519.940 ms
+GET /abstract 200 - - 556.077 ms
+GET /conclusion.json 200 - - 544.105 ms
+GET /literature 200 - - 629.930 ms
+GET /dataanalysis 200 - - 669.777 ms
+GET /bibliography.json 200 - - 583.002 ms
+GET /bibliography 200 - - 671.126 ms
+GET /conclusion 200 - - 701.170 ms
+GET /appendix.json 200 - - 611.299 ms
+GET /appendix 200 - - 696.577 ms
+GET /paper-root 200 - - 692.666 ms
+💌 GET  /favicon.ico 200 - - 602.448 ms
+Terminated
+🌎 Building MyST site
+🌎 Building MyST site
+🌎 Building MyST site
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+BASE_URL environment overwrite is set
+BASE_URL environment overwrite is set
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+Building the site with a baseurl of "/dockervm29/09e0d975-9af2-11ef-8c58-5254001d4703/proxy/3000"
+📖 Built 01_abstract.md in 1.24 s.
+📖 Built 02_introduction.md in 1.24 s.
+📖 Built 03_literature.md in 1.23 s.
+📖 Built 05_conclusion.md in 1.23 s.
+📖 Built 07_appendix.ipynb in 1.23 s.
+📖 Built 06_bibliography.ipynb in 1.25 s.
+📖 Built 04_dataanalysis.ipynb in 1.26 s.
+📖 Built 01_abstract.md in 1.31 s.
+📖 Built 02_introduction.md in 1.3 s.
+📖 Built 03_literature.md in 1.3 s.
+📖 Built 05_conclusion.md in 1.3 s.
+📖 Built 07_appendix.ipynb in 1.3 s.
+📖 Built 06_bibliography.ipynb in 1.31 s.
+📖 Built 04_dataanalysis.ipynb in 1.32 s.
+📖 Built 01_abstract.md in 1.39 s.
+📖 Built 02_introduction.md in 1.39 s.
+📖 Built 03_literature.md in 1.39 s.
+📖 Built 05_conclusion.md in 1.38 s.
+📖 Built 07_appendix.ipynb in 1.38 s.
+📖 Built 06_bibliography.ipynb in 1.41 s.
+📖 Built 04_dataanalysis.ipynb in 1.43 s.
+📖 Built 00_paper_root.md in 2.54 s.
+📖 Built 00_paper_root.md in 2.59 s.
+📖 Built 00_paper_root.md in 2.77 s.
+📚 Built 8 pages for project in 2.92 s.
+📚 Built 8 pages for project in 2.97 s.
+📚 Built 8 pages for project in 3.05 s.
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+node:events:497
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::3100
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:137720:28)
+    at startContentServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317374:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async startServer (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317432:18)
+    at async buildHtml (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317563:21)
+    at async build (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:317787:9)
+    at async Command2.<anonymous> (/home/idies/mambaforge/envs/econark/lib/python3.11/site-packages/mystmd_py/myst.cjs:332293:7)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1944:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3100
+}
+
+Node.js v22.9.0
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+
+	✨✨✨  Starting Article Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+
+╭─────────────────────────╮
+│                         │
+│    Update available!    │
+│    v1.3.16 ≫ v1.3.18    │
+│                         │
+│   Run `pip install -U   │
+│   mystmd` to update.    │
+│                         │
+│         Follow          │
+│    @MystMarkdown for    │
+│        updates!         │
+│   https://twitter.com   │
+│      /MystMarkdown      │
+│                         │
+╰─────────────────────────╯
+
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1908:16)
+    at listenInCluster (node:net:1965:12)
+    at Server.listen (node:net:2067:7)
+    at Function.listen (_build/templates/site/myst/article-theme/node_modules/express/lib/application.js:635:24)
+    at start (_build/templates/site/myst/article-theme/server.js:40:7)
+    at Object.<anonymous> (_build/templates/site/myst/article-theme/server.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+
+💌 GET  /introduction 200 - - 405.579 ms
+GET /literature 200 - - 421.284 ms
+GET /dataanalysis 200 - - 441.916 ms
+💌 GET  /paper-root 200 - - 450.279 ms
+GET /bibliography 200 - - 458.778 ms
+GET /paper-root.json 200 - - 449.381 ms
+GET /literature.json 200 - - 402.611 ms
+GET /abstract 200 - - 547.427 ms
+GET /appendix 200 - - 510.321 ms
+GET /introduction.json 200 - - 489.999 ms
+GET /conclusion.json 200 - - 386.111 ms
+GET /conclusion 200 - - 549.989 ms
+GET /abstract.json 200 - - 516.709 ms
+GET /dataanalysis.json 200 - - 439.353 ms
+GET /robots.txt 200 - - 4.339 ms
+GET /bibliography.json 200 - - 159.951 ms
+💌 GET  /appendix.json 200 - - 283.244 ms
+💌 GET  /myst-theme.css 200 - - 206.369 ms
+💌 GET  /favicon.ico 200 - - 283.665 ms
+Terminated
