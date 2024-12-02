@@ -19,7 +19,7 @@
     - replace the packages with the list on your terminal.
     - delete line for jupyterlab-rise=0.42.0
 
-- Adjust reproduce.sh (see [example](../../contrib/AMonninger/Paper_Rescheduled/reproduce.sh)
+- Adjust reproduce.sh (see [example](../../contrib/AMonninger/Paper_Restructured/reproduce.sh))
     - make sure to activate the kernel
     ```
     python -m ipykernel install --user --name econark
@@ -38,14 +38,32 @@
     - ```ls -las``` (shows if it is executable)
     - ```chmod u+x reproduce.sh ```
     - ```ls -las```(reproduce.sh file should be green now)
-    - to get jupyterlab-rise working (for your slideshows):
-      - ```conda uninstall httpx```
-      - ```conda install "httpx<0.28.0```
-      - ```jupyter lab```
-      - once jupyter lab opens, click the extensions(puzzle piece) button on the left hand menu bar
-      - type "rise" into the extensions search bar
-      - install jupyterlab-rise
+- to get jupyterlab-rise working (for your slideshows):
+    - ```conda uninstall httpx```
+    - ```conda install "httpx<0.28.0```
+    - ```jupyter lab```
+    - once jupyter lab opens, click the extensions(puzzle piece) button on the left hand menu bar
+    - type "rise" into the extensions search bar
+    - install jupyterlab-rise
 - run reproduce.sh
+
+If you want to run your code without reproduce.sh
+- Creat the environment (only need to do this once)
+  ```
+  conda env create -f ./binder/environment.yml
+  ```
+- Activate the environment:
+  ```
+  activate econark
+  ```
+- run myst start or just build the pdf
+  ```
+  # to start
+  myst start
+  # to build
+  myst build --pdf
+  ```
+  
 
 OPEN QUESTIONS:
 - [x] how to get jupyterlab-rise=0.42.0
