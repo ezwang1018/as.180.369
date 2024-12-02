@@ -38,6 +38,8 @@
     - ```ls -las``` (shows if it is executable)
     - ```chmod u+x reproduce.sh ```
     - ```ls -las```(reproduce.sh file should be green now)
+    - to get jupyterlab-rise working (for your slideshows):
+    - 
 - run reproduce.sh
 
 OPEN QUESTIONS:
