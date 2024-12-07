@@ -1,0 +1,18 @@
+version: 1
+site:
+  template: article-theme
+  title: Eric Wang - Political Affiliation of the President and New Business Formation
+  subtitle: This is just a template
+  short_title: template
+  authors:
+    - name: Eric Wang
+project:
+  title: Political Affiliation of the President and New Business Formation
+  authors:
+    - name: Eric Wang
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: arxiv_nips
+      output: Paper_Restructured.pdf

@@ -1,0 +1,24 @@
+name: econark
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - jupyterlab-myst
+  - econ-ark
+  - sympy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - seaborn
+  - pandas-datareader
+  - statsmodels
+  - linearmodels
+  - tqdm
+  - mystmd
+  - jupyter-server-proxy
+  - watchdog
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/idies/mambaforge/envs/econark
