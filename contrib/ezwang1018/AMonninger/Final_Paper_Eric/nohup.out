@@ -8140,3 +8140,5 @@ GET /bibliography.json 200 - - 529.525 ms
 GET /appendix.json 200 - - 391.980 ms
 💌 GET  /myst-theme.css 200 - - 174.722 ms
 💌 GET  /favicon.ico 200 - - 276.123 ms
+Terminated
+Terminated
